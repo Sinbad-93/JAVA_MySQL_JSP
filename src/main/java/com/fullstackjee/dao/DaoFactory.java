@@ -23,7 +23,7 @@ public class DaoFactory {
 	        }
 
 	        DaoFactory instance = new DaoFactory(
-	                "jdbc:mysql://localhost:3306/javaee", "hiddenforgithub", "hiddenforgithub");
+	                "jdbc:mysql://localhost:3306/javaee", "Sinbad", "Foxelvis123");
 	        return instance;
 	    }
 	    
